@@ -2,7 +2,7 @@ from gymnasium.wrappers import TimeLimit
 from env_hiv import HIVPatient
 from dqn import DQNAgent
 from ddqn import DDQNAgent
-import matplotlib.pyplot as plt
+import numpy as np
 
 env = TimeLimit(
     env=HIVPatient(domain_randomization=False), max_episode_steps=200
@@ -40,4 +40,4 @@ if __name__ == '__main__':
     # agent.load()
     rs = agent.train(env)
     agent.save('ddqn.pth')
-    plt.plot(rs)
+    np.save('training.npy', rs)

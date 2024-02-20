@@ -10,13 +10,17 @@ class DDQNAgent:
             "device": 'cuda:0',
             "training_steps": 10000,
             "batch_size": 64,
-            "learning_rate": 1e-2,
-            "epsilon_greedy": 0.1,
-            "gamma": 0.9,
-            "update_target_tau":0.03,
-            "buffer_size": 1000,
+            "learning_rate": 1e-3,
+            "epsilon_min": 0.01,
+            "epsilon_max": 1.,
+            "epsilon_decay_period": 2000,
+            "gamma": 0.95,
+            "update_target_tau":0.005,
+            "buffer_size": 500,
             "log_delay": 50,
         }
+        self.config['epsilon_step'] =(self.config['epsilon_max']-self.config['epsilon_min'])/self.config['epsilon_decay_period']
+
         self.dqn = DQN()
         self.target_dqn = deepcopy(self.dqn)
         self.replay_buffer = ReplayBuffer(self.config['buffer_size'], self.config['device'])
@@ -76,11 +80,12 @@ class DDQNAgent:
         self.target_dqn.to(self.config['device'])
         s, _ = env.reset()
         rs = []
+        epsilon = self.config['epsilon_max']
 
         for step in range(self.config['training_steps']):
             # Choose action
-            # print(s)
-            a = self.sample_action_eps_greedy(env, s, self.config['epsilon_greedy'])
+            epsilon = max(self.config['epsilon_min'], epsilon-self.config['epsilon_step'])
+            a = self.sample_action_eps_greedy(env, s, epsilon)
             sp, r, d, t, _ = env.step(a)
             # Fill buffer
             self.replay_buffer.append((s, a, r, sp, d))
