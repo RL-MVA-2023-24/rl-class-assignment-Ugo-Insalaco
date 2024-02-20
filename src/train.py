@@ -102,7 +102,7 @@ class ProjectAgent:
     def load(self):
         self.config['device'] = 'cpu'
         base_path = "dqn.pth"
-        chkpt = torch.load(base_path)
+        chkpt = torch.load(base_path, map_location=torch.device('cpu'))
         self.dqn.load_state_dict(chkpt['model_state_dict'])
         self.dqn.to(self.config['device'])
         self.dqn.eval()
