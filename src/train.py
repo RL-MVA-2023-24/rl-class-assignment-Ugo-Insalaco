@@ -67,8 +67,8 @@ class ProjectAgent:
             "buffer_size": 1000,
             "log_delay": 50,
         }
-        self.dqn = DQN(self.config['device'])
-        self.target_dqn = deepcopy(self.dqn).to(self.config['device'])
+        self.dqn = DQN()
+        self.target_dqn = deepcopy(self.dqn)
         self.replay_buffer = ReplayBuffer(self.config['buffer_size'], self.config['device'])
         self.criterion = nn.MSELoss()
         self.optimizer = torch.optim.Adam(self.dqn.parameters(), lr=self.config['learning_rate'])
@@ -121,6 +121,8 @@ class ProjectAgent:
             self.optimizer.step() 
             
     def train(self, env):
+        self.dqn.to(self.config['device'])
+        self.target_dqn.to(self.config['device'])
         s, _ = env.reset()
         cum_reward= 0
         for step in range(self.config['training_steps']):
