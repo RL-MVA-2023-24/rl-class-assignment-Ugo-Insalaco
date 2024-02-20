@@ -100,9 +100,11 @@ class ProjectAgent:
         torch.save({'model_state_dict': self.dqn.state_dict()}, path)
 
     def load(self):
+        self.config['device'] = 'cpu'
         base_path = "dqn.pth"
         chkpt = torch.load(base_path)
         self.dqn.load_state_dict(chkpt['model_state_dict'])
+        self.dqn.to(self.config['device'])
         self.dqn.eval()
         self.target_dqn =  deepcopy(self.dqn).to(self.config['device'])
 
