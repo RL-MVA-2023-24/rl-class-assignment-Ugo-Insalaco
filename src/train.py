@@ -17,7 +17,7 @@ env = TimeLimit(
     
 class ProjectAgent:
     def __init__(self):
-        self.agent_name = "DDQN"
+        self.agent_name = "DQN"
         if self.agent_name=="DQN":
             self.agent = DQNAgent() 
         elif self.agent_name=="DDQN":
@@ -39,5 +39,4 @@ if __name__ == '__main__':
     agent = ProjectAgent()
     # agent.load()
     rs = agent.train(env)
-    agent.save('ddqn.pth')
-    np.save('training.npy', rs)
+    # np.save('training.npy', rs)

@@ -9,16 +9,30 @@ class DQN(nn.Module):
         self.in_features = 6
         self.out_size = 4
         self.hidden_size = 64
-        # self.hidden_size2 = 64
+        self.hidden_size2 = 128
+        self.hidden_size3 = 256
+        self.hidden_size4 = 128
+        self.hidden_size5 = 64
+
         super(DQN, self).__init__()
         self.fc1 = nn.Linear(self.in_features, self.hidden_size, device=device)
-        # self.fc2 = nn.Linear(self.hidden_size, self.hidden_size2, device=device)
-        self.fc3 = nn.Linear(self.hidden_size, self.out_size, device=device)
+        self.fc2 = nn.Linear(self.hidden_size, self.hidden_size2, device=device)
+        self.fc3 = nn.Linear(self.hidden_size2, self.hidden_size3, device=device)
+        self.fc4 = nn.Linear(self.hidden_size3, self.hidden_size4, device=device)
+        self.fc5 = nn.Linear(self.hidden_size4, self.hidden_size5, device=device)
+        self.fc6 = nn.Linear(self.hidden_size5, self.out_size, device=device)
+
+        self.bn = nn.BatchNorm1d(self.in_features)
 
     def forward(self, x):
+        # x = self.bn(x)
         x = F.relu(self.fc1(x))
-        # x = F.relu(self.fc2(x))
-        x = self.fc3(x)
+        x = F.relu(self.fc2(x))
+        x = F.relu(self.fc3(x))
+        x = F.relu(self.fc4(x))
+        x = F.relu(self.fc5(x))
+        x = self.fc6(x)
+        # x = F.relu(x)
         return x
     
 class ReplayBuffer:
