@@ -1,22 +1,2 @@
-36410152798.57445
-9126595949.312666
-
-self.config = {
-            "device": 'cuda:0',
-            "training_steps": 40000,
-            "ep_length": 200,
-            "batch_size": 512,
-            "learning_rate": 1e-3,
-            "gradient_steps": 3,
-            "epsilon_min": 0.01,
-            "epsilon_max": 1.,
-            "epsilon_decay_period": 17000,
-            "epsilon_delay_decay": 500,
-            "gamma": 0.95,
-            "update_target_tau":0.001,
-            "update_target_replace": 400,
-            "update_replace": False,
-            "buffer_size": 100000,
-            "log_delay": 50,
-            "save_delay": 1000
-        }
+33105348399.095604
+10754624653.241396

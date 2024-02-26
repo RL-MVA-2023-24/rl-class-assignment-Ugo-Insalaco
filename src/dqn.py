@@ -15,10 +15,10 @@ class DQNAgent:
             "learning_rate": 1e-3,
             "gradient_steps": 3,
             "epsilon_min": 0.01,
-            "epsilon_max": 1.,
-            "epsilon_decay_period": 17000,
+            "epsilon_max": 1,
+            "epsilon_decay_period": 20000,
             "epsilon_delay_decay": 500,
-            "gamma": 0.95,
+            "gamma": 0.85,
             "update_target_tau":0.001,
             "update_target_replace": 400,
             "update_replace": False,
@@ -70,7 +70,7 @@ class DQNAgent:
 
     def load(self):
         self.config['device'] = 'cpu'
-        base_path = "dqn_best.pth"
+        base_path = "dqn_final.pth"
         chkpt = torch.load(base_path, map_location=torch.device('cpu'))
         self.dqn.load_state_dict(chkpt['model_state_dict'])
         self.dqn.to(self.config['device'])

@@ -38,5 +38,6 @@ class ProjectAgent:
 if __name__ == '__main__':
     agent = ProjectAgent()
     # agent.load()
+    # agent.agent.config['device'] = 'cuda:0'
     rs = agent.train(env)
     # np.save('training.npy', rs)

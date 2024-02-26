@@ -8,11 +8,11 @@ class DQN(nn.Module):
     def __init__(self, device='cpu'):
         self.in_features = 6
         self.out_size = 4
-        self.hidden_size = 64
-        self.hidden_size2 = 128
+        self.hidden_size = 256
+        self.hidden_size2 = 256
         self.hidden_size3 = 256
-        self.hidden_size4 = 128
-        self.hidden_size5 = 64
+        self.hidden_size4 = 256
+        self.hidden_size5 = 256
 
         super(DQN, self).__init__()
         self.fc1 = nn.Linear(self.in_features, self.hidden_size, device=device)
