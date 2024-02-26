@@ -1,0 +1,946 @@
+ == End of episode. Score: 6.773685e+06 ==
+step 2250 | rolling reward: 3.752182e+04 | random actions: 45 | loss: 8.462451e+08
+step 2300 | rolling reward: 7.032393e+04 | random actions: 48 | loss: 7.540797e+08
+step 2350 | rolling reward: 4.573216e+04 | random actions: 48 | loss: 9.456037e+08
+step 2400 | rolling reward: 4.870854e+04 | random actions: 47 | loss: 1.023174e+09
+ == End of episode. Score: 8.306240e+06 ==
+step 2450 | rolling reward: 6.743956e+04 | random actions: 45 | loss: 1.065141e+09
+step 2500 | rolling reward: 7.371604e+04 | random actions: 47 | loss: 1.378135e+09
+step 2550 | rolling reward: 5.593989e+04 | random actions: 47 | loss: 1.397471e+09
+step 2600 | rolling reward: 1.067452e+05 | random actions: 45 | loss: 1.334874e+09
+ == End of episode. Score: 8.661960e+06 ==
+step 2650 | rolling reward: 5.165803e+04 | random actions: 42 | loss: 1.351783e+09
+step 2700 | rolling reward: 4.288179e+04 | random actions: 44 | loss: 1.471303e+09
+step 2750 | rolling reward: 4.899840e+04 | random actions: 47 | loss: 1.736068e+09
+step 2800 | rolling reward: 6.599423e+04 | random actions: 47 | loss: 1.628770e+09
+ == End of episode. Score: 9.401600e+06 ==
+step 2850 | rolling reward: 3.412093e+04 | random actions: 41 | loss: 2.071638e+09
+step 2900 | rolling reward: 2.703357e+04 | random actions: 47 | loss: 2.677842e+09
+step 2950 | rolling reward: 6.395666e+04 | random actions: 40 | loss: 3.284381e+09
+step 3000 | rolling reward: 3.185116e+04 | random actions: 42 | loss: 2.053080e+09
+ == End of episode. Score: 6.787977e+06 ==
+step 3050 | rolling reward: 4.094970e+04 | random actions: 48 | loss: 1.958149e+09
+step 3100 | rolling reward: 3.644187e+04 | random actions: 46 | loss: 1.962933e+09
+step 3150 | rolling reward: 6.965606e+04 | random actions: 42 | loss: 2.272045e+09
+step 3200 | rolling reward: 6.424238e+04 | random actions: 45 | loss: 2.255224e+09
+ == End of episode. Score: 1.263028e+07 ==
+step 3250 | rolling reward: 2.807999e+04 | random actions: 43 | loss: 2.112702e+09
+step 3300 | rolling reward: 4.685290e+04 | random actions: 43 | loss: 2.097028e+09
+step 3350 | rolling reward: 5.766138e+04 | random actions: 45 | loss: 2.247008e+09
+step 3400 | rolling reward: 4.013175e+04 | random actions: 42 | loss: 2.292101e+09
+ == End of episode. Score: 4.808197e+06 ==
+step 3450 | rolling reward: 3.489813e+04 | random actions: 42 | loss: 2.325862e+09
+step 3500 | rolling reward: 4.724754e+04 | random actions: 46 | loss: 2.230967e+09
+step 3550 | rolling reward: 1.071445e+05 | random actions: 43 | loss: 2.490732e+09
+step 3600 | rolling reward: 8.221199e+04 | random actions: 43 | loss: 2.245250e+09
+ == End of episode. Score: 7.670862e+06 ==
+step 3650 | rolling reward: 2.973550e+04 | random actions: 45 | loss: 2.759107e+09
+step 3700 | rolling reward: 4.237741e+04 | random actions: 41 | loss: 2.369758e+09
+step 3750 | rolling reward: 4.471905e+04 | random actions: 41 | loss: 2.341887e+09
+step 3800 | rolling reward: 3.054589e+04 | random actions: 41 | loss: 2.602962e+09
+ == End of episode. Score: 7.983380e+06 ==
+step 3850 | rolling reward: 5.411805e+04 | random actions: 38 | loss: 2.636057e+09
+step 3900 | rolling reward: 6.795502e+04 | random actions: 39 | loss: 2.403435e+09
+step 3950 | rolling reward: 5.802104e+04 | random actions: 44 | loss: 2.708432e+09
+step 4000 | rolling reward: 1.261979e+05 | random actions: 37 | loss: 2.896202e+09
+ == End of episode. Score: 8.980614e+06 ==
+step 4050 | rolling reward: 7.331675e+04 | random actions: 37 | loss: 2.749731e+09
+step 4100 | rolling reward: 9.949375e+04 | random actions: 36 | loss: 2.851393e+09
+step 4150 | rolling reward: 4.904057e+04 | random actions: 40 | loss: 2.871978e+09
+step 4200 | rolling reward: 8.184204e+04 | random actions: 41 | loss: 2.965423e+09
+ == End of episode. Score: 1.003278e+07 ==
+step 4250 | rolling reward: 5.786637e+04 | random actions: 38 | loss: 3.013187e+09
+step 4300 | rolling reward: 5.656553e+04 | random actions: 42 | loss: 2.794230e+09
+step 4350 | rolling reward: 1.208946e+05 | random actions: 40 | loss: 2.997233e+09
+step 4400 | rolling reward: 1.401027e+05 | random actions: 43 | loss: 3.069971e+09
+ == End of episode. Score: 1.048743e+07 ==
+step 4450 | rolling reward: 6.239860e+04 | random actions: 38 | loss: 3.139115e+09
+step 4500 | rolling reward: 7.690414e+04 | random actions: 33 | loss: 2.989086e+09
+step 4550 | rolling reward: 1.118601e+05 | random actions: 40 | loss: 3.050806e+09
+step 4600 | rolling reward: 5.763978e+04 | random actions: 42 | loss: 2.912111e+09
+ == End of episode. Score: 8.084134e+06 ==
+step 4650 | rolling reward: 8.737081e+04 | random actions: 40 | loss: 3.417150e+09
+step 4700 | rolling reward: 1.212791e+05 | random actions: 40 | loss: 3.288430e+09
+step 4750 | rolling reward: 7.459429e+04 | random actions: 40 | loss: 3.402896e+09
+step 4800 | rolling reward: 8.794463e+04 | random actions: 29 | loss: 3.022902e+09
+ == End of episode. Score: 6.956053e+06 ==
+step 4850 | rolling reward: 3.367997e+04 | random actions: 43 | loss: 3.370881e+09
+step 4900 | rolling reward: 3.508493e+04 | random actions: 43 | loss: 3.407337e+09
+step 4950 | rolling reward: 5.845136e+04 | random actions: 37 | loss: 3.340780e+09
+step 5000 | rolling reward: 9.123224e+04 | random actions: 42 | loss: 3.600912e+09
+ == End of episode. Score: 9.244977e+06 ==
+step 5050 | rolling reward: 6.697631e+04 | random actions: 36 | loss: 3.321129e+09
+step 5100 | rolling reward: 1.001488e+05 | random actions: 36 | loss: 3.573051e+09
+step 5150 | rolling reward: 4.623829e+04 | random actions: 40 | loss: 3.442357e+09
+step 5200 | rolling reward: 3.300865e+04 | random actions: 41 | loss: 3.541472e+09
+ == End of episode. Score: 1.165244e+07 ==
+step 5250 | rolling reward: 7.607027e+04 | random actions: 34 | loss: 3.261496e+09
+step 5300 | rolling reward: 6.121173e+04 | random actions: 42 | loss: 3.416456e+09
+step 5350 | rolling reward: 8.244775e+04 | random actions: 35 | loss: 3.476890e+09
+step 5400 | rolling reward: 9.765753e+04 | random actions: 41 | loss: 4.013870e+09
+ == End of episode. Score: 9.315312e+06 ==
+step 5450 | rolling reward: 5.281100e+04 | random actions: 38 | loss: 3.466964e+09
+step 5500 | rolling reward: 5.357779e+04 | random actions: 40 | loss: 3.616316e+09
+step 5550 | rolling reward: 5.375668e+04 | random actions: 39 | loss: 3.586618e+09
+step 5600 | rolling reward: 5.057366e+04 | random actions: 42 | loss: 3.495790e+09
+ == End of episode. Score: 1.111208e+07 ==
+step 5650 | rolling reward: 1.168576e+05 | random actions: 37 | loss: 4.458281e+09
+step 5700 | rolling reward: 7.597006e+04 | random actions: 42 | loss: 3.628924e+09
+step 5750 | rolling reward: 9.276716e+04 | random actions: 38 | loss: 3.717626e+09
+step 5800 | rolling reward: 5.043694e+04 | random actions: 37 | loss: 3.748159e+09
+ == End of episode. Score: 1.112033e+07 ==
+step 5850 | rolling reward: 4.729331e+04 | random actions: 36 | loss: 3.820560e+09
+step 5900 | rolling reward: 4.948719e+04 | random actions: 38 | loss: 3.904554e+09
+step 5950 | rolling reward: 1.653424e+05 | random actions: 38 | loss: 4.011866e+09
+step 6000 | rolling reward: 8.584534e+04 | random actions: 36 | loss: 4.188008e+09
+ == End of episode. Score: 1.339583e+07 ==
+step 6050 | rolling reward: 7.795021e+04 | random actions: 38 | loss: 4.097640e+09
+step 6100 | rolling reward: 8.959251e+04 | random actions: 39 | loss: 4.077345e+09
+step 6150 | rolling reward: 5.546141e+04 | random actions: 34 | loss: 4.442534e+09
+step 6200 | rolling reward: 8.199232e+04 | random actions: 40 | loss: 4.069966e+09
+ == End of episode. Score: 1.625647e+07 ==
+step 6250 | rolling reward: 6.579264e+04 | random actions: 36 | loss: 4.507673e+09
+step 6300 | rolling reward: 9.922916e+04 | random actions: 34 | loss: 4.111444e+09
+step 6350 | rolling reward: 7.465464e+04 | random actions: 40 | loss: 4.312769e+09
+step 6400 | rolling reward: 1.160164e+05 | random actions: 31 | loss: 4.541511e+09
+ == End of episode. Score: 1.489459e+07 ==
+step 6450 | rolling reward: 3.914367e+04 | random actions: 35 | loss: 4.181908e+09
+step 6500 | rolling reward: 5.275700e+04 | random actions: 43 | loss: 4.378439e+09
+step 6550 | rolling reward: 1.305115e+05 | random actions: 36 | loss: 4.381586e+09
+step 6600 | rolling reward: 4.300842e+04 | random actions: 39 | loss: 4.431863e+09
+ == End of episode. Score: 1.548785e+07 ==
+step 6650 | rolling reward: 3.070017e+04 | random actions: 37 | loss: 4.878252e+09
+step 6700 | rolling reward: 1.487414e+05 | random actions: 34 | loss: 4.448754e+09
+step 6750 | rolling reward: 9.762805e+04 | random actions: 32 | loss: 5.168860e+09
+step 6800 | rolling reward: 1.098746e+05 | random actions: 41 | loss: 4.883476e+09
+ == End of episode. Score: 1.241991e+07 ==
+step 6850 | rolling reward: 6.689442e+04 | random actions: 34 | loss: 4.959745e+09
+step 6900 | rolling reward: 8.439538e+04 | random actions: 34 | loss: 4.716014e+09
+step 6950 | rolling reward: 1.068220e+05 | random actions: 34 | loss: 4.955572e+09
+step 7000 | rolling reward: 1.015217e+05 | random actions: 34 | loss: 5.358322e+09
+ == End of episode. Score: 1.249181e+07 ==
+step 7050 | rolling reward: 1.094269e+05 | random actions: 35 | loss: 4.927976e+09
+step 7100 | rolling reward: 9.185673e+04 | random actions: 36 | loss: 5.466448e+09
+step 7150 | rolling reward: 1.244874e+05 | random actions: 34 | loss: 4.710374e+09
+step 7200 | rolling reward: 2.162214e+05 | random actions: 33 | loss: 5.459333e+09
+ == End of episode. Score: 1.563933e+07 ==
+step 7250 | rolling reward: 5.591367e+04 | random actions: 33 | loss: 5.599935e+09
+step 7300 | rolling reward: 6.478810e+04 | random actions: 34 | loss: 5.725178e+09
+step 7350 | rolling reward: 1.161930e+05 | random actions: 32 | loss: 5.871432e+09
+step 7400 | rolling reward: 1.028658e+05 | random actions: 26 | loss: 5.339469e+09
+ == End of episode. Score: 1.432842e+07 ==
+step 7450 | rolling reward: 4.178054e+04 | random actions: 30 | loss: 5.460130e+09
+step 7500 | rolling reward: 6.076374e+04 | random actions: 38 | loss: 5.907097e+09
+step 7550 | rolling reward: 1.207256e+05 | random actions: 33 | loss: 5.805832e+09
+step 7600 | rolling reward: 1.271526e+05 | random actions: 32 | loss: 6.478195e+09
+ == End of episode. Score: 1.163450e+07 ==
+step 7650 | rolling reward: 8.250188e+04 | random actions: 31 | loss: 5.506892e+09
+step 7700 | rolling reward: 1.141639e+05 | random actions: 34 | loss: 5.630163e+09
+step 7750 | rolling reward: 1.056224e+05 | random actions: 34 | loss: 5.919642e+09
+step 7800 | rolling reward: 1.851155e+05 | random actions: 29 | loss: 5.814198e+09
+ == End of episode. Score: 1.271667e+07 ==
+step 7850 | rolling reward: 3.202972e+04 | random actions: 40 | loss: 6.270565e+09
+step 7900 | rolling reward: 1.803496e+05 | random actions: 25 | loss: 7.654986e+09
+step 7950 | rolling reward: 8.171290e+04 | random actions: 37 | loss: 6.312170e+09
+step 8000 | rolling reward: 4.671854e+04 | random actions: 33 | loss: 6.304112e+09
+ == End of episode. Score: 1.652211e+07 ==
+step 8050 | rolling reward: 8.772748e+04 | random actions: 35 | loss: 6.130917e+09
+step 8100 | rolling reward: 8.253057e+04 | random actions: 34 | loss: 6.664106e+09
+step 8150 | rolling reward: 1.687125e+05 | random actions: 31 | loss: 6.427886e+09
+step 8200 | rolling reward: 1.609537e+05 | random actions: 37 | loss: 7.584897e+09
+ == End of episode. Score: 1.352627e+07 ==
+step 8250 | rolling reward: 8.639153e+04 | random actions: 25 | loss: 6.534160e+09
+step 8300 | rolling reward: 8.585327e+04 | random actions: 34 | loss: 6.441055e+09
+step 8350 | rolling reward: 8.300449e+04 | random actions: 31 | loss: 6.573708e+09
+step 8400 | rolling reward: 2.121821e+05 | random actions: 29 | loss: 7.683113e+09
+ == End of episode. Score: 1.103403e+07 ==
+step 8450 | rolling reward: 5.809394e+04 | random actions: 29 | loss: 7.260608e+09
+step 8500 | rolling reward: 4.322764e+04 | random actions: 32 | loss: 7.263250e+09
+step 8550 | rolling reward: 8.572917e+04 | random actions: 38 | loss: 7.542492e+09
+step 8600 | rolling reward: 4.054175e+04 | random actions: 33 | loss: 6.996809e+09
+ == End of episode. Score: 1.414649e+07 ==
+step 8650 | rolling reward: 8.411973e+04 | random actions: 29 | loss: 7.309089e+09
+step 8700 | rolling reward: 1.460398e+05 | random actions: 36 | loss: 7.161800e+09
+step 8750 | rolling reward: 1.838041e+05 | random actions: 25 | loss: 7.610525e+09
+step 8800 | rolling reward: 2.818805e+05 | random actions: 24 | loss: 8.779492e+09
+ == End of episode. Score: 1.131302e+07 ==
+step 8850 | rolling reward: 1.164403e+05 | random actions: 30 | loss: 8.166158e+09
+step 8900 | rolling reward: 6.965144e+04 | random actions: 32 | loss: 7.781914e+09
+step 8950 | rolling reward: 1.214928e+05 | random actions: 30 | loss: 7.848118e+09
+step 9000 | rolling reward: 9.495988e+04 | random actions: 28 | loss: 7.886180e+09
+ == End of episode. Score: 1.601504e+07 ==
+step 9050 | rolling reward: 7.885309e+04 | random actions: 30 | loss: 8.567678e+09
+step 9100 | rolling reward: 1.157552e+05 | random actions: 27 | loss: 7.873406e+09
+step 9150 | rolling reward: 3.912564e+05 | random actions: 26 | loss: 8.279652e+09
+step 9200 | rolling reward: 2.102368e+05 | random actions: 29 | loss: 9.048035e+09
+ == End of episode. Score: 1.530279e+07 ==
+step 9250 | rolling reward: 1.373596e+05 | random actions: 24 | loss: 8.516917e+09
+step 9300 | rolling reward: 1.667647e+05 | random actions: 26 | loss: 8.991005e+09
+step 9350 | rolling reward: 2.069153e+05 | random actions: 31 | loss: 1.017899e+10
+step 9400 | rolling reward: 1.259377e+05 | random actions: 27 | loss: 8.575405e+09
+ == End of episode. Score: 1.810567e+07 ==
+step 9450 | rolling reward: 1.352168e+05 | random actions: 25 | loss: 8.532217e+09
+step 9500 | rolling reward: 1.920735e+05 | random actions: 30 | loss: 9.017843e+09
+step 9550 | rolling reward: 2.309444e+05 | random actions: 21 | loss: 9.283345e+09
+step 9600 | rolling reward: 1.754680e+05 | random actions: 28 | loss: 9.195267e+09
+ == End of episode. Score: 1.783447e+07 ==
+step 9650 | rolling reward: 7.590138e+04 | random actions: 30 | loss: 9.402535e+09
+step 9700 | rolling reward: 1.235387e+05 | random actions: 28 | loss: 1.020144e+10
+step 9750 | rolling reward: 3.598845e+05 | random actions: 28 | loss: 1.025436e+10
+step 9800 | rolling reward: 3.295847e+05 | random actions: 24 | loss: 1.040219e+10
+ == End of episode. Score: 1.822020e+07 ==
+step 9850 | rolling reward: 8.703009e+04 | random actions: 30 | loss: 1.101731e+10
+step 9900 | rolling reward: 1.649224e+05 | random actions: 29 | loss: 1.154190e+10
+step 9950 | rolling reward: 1.502146e+05 | random actions: 28 | loss: 1.085241e+10
+step 10000 | rolling reward: 1.222683e+05 | random actions: 29 | loss: 1.129045e+10
+ == End of episode. Score: 1.906587e+07 ==
+step 10050 | rolling reward: 4.203837e+04 | random actions: 30 | loss: 1.034904e+10
+step 10100 | rolling reward: 2.157683e+05 | random actions: 29 | loss: 1.050866e+10
+step 10150 | rolling reward: 6.443134e+05 | random actions: 24 | loss: 1.241034e+10
+step 10200 | rolling reward: 4.986252e+05 | random actions: 14 | loss: 1.520110e+10
+ == End of episode. Score: 1.842787e+07 ==
+step 10250 | rolling reward: 1.273544e+05 | random actions: 32 | loss: 1.462196e+10
+step 10300 | rolling reward: 1.449549e+05 | random actions: 25 | loss: 1.515316e+10
+step 10350 | rolling reward: 2.536185e+05 | random actions: 25 | loss: 1.443160e+10
+step 10400 | rolling reward: 9.896960e+04 | random actions: 30 | loss: 1.352024e+10
+ == End of episode. Score: 1.914445e+07 ==
+step 10450 | rolling reward: 7.611801e+04 | random actions: 28 | loss: 1.528726e+10
+step 10500 | rolling reward: 1.554102e+05 | random actions: 21 | loss: 1.352720e+10
+step 10550 | rolling reward: 1.955412e+05 | random actions: 21 | loss: 1.514567e+10
+step 10600 | rolling reward: 4.397788e+05 | random actions: 26 | loss: 1.532285e+10
+ == End of episode. Score: 1.861628e+07 ==
+step 10650 | rolling reward: 1.347732e+05 | random actions: 24 | loss: 1.639075e+10
+step 10700 | rolling reward: 2.495634e+05 | random actions: 20 | loss: 1.555568e+10
+step 10750 | rolling reward: 4.880895e+05 | random actions: 29 | loss: 1.430460e+10
+step 10800 | rolling reward: 2.633433e+05 | random actions: 19 | loss: 1.553850e+10
+ == End of episode. Score: 2.546897e+07 ==
+step 10850 | rolling reward: 1.104532e+05 | random actions: 23 | loss: 1.688083e+10
+step 10900 | rolling reward: 9.179730e+04 | random actions: 30 | loss: 1.625773e+10
+step 10950 | rolling reward: 9.762537e+04 | random actions: 26 | loss: 1.723301e+10
+step 11000 | rolling reward: 1.052786e+05 | random actions: 26 | loss: 1.625687e+10
+ == End of episode. Score: 2.028856e+07 ==
+step 11050 | rolling reward: 9.259462e+04 | random actions: 32 | loss: 1.503510e+10
+step 11100 | rolling reward: 1.255931e+05 | random actions: 23 | loss: 1.809683e+10
+step 11150 | rolling reward: 1.631714e+05 | random actions: 27 | loss: 1.635606e+10
+step 11200 | rolling reward: 2.674966e+05 | random actions: 22 | loss: 1.599007e+10
+ == End of episode. Score: 2.558275e+07 ==
+step 11250 | rolling reward: 1.208155e+05 | random actions: 19 | loss: 1.592941e+10
+step 11300 | rolling reward: 1.307748e+05 | random actions: 25 | loss: 1.651155e+10
+step 11350 | rolling reward: 9.795551e+04 | random actions: 24 | loss: 1.710868e+10
+step 11400 | rolling reward: 1.735939e+05 | random actions: 26 | loss: 1.615298e+10
+ == End of episode. Score: 1.966917e+07 ==
+step 11450 | rolling reward: 1.004415e+05 | random actions: 25 | loss: 1.755680e+10
+step 11500 | rolling reward: 9.093097e+04 | random actions: 27 | loss: 1.653252e+10
+step 11550 | rolling reward: 1.245104e+05 | random actions: 25 | loss: 1.809220e+10
+step 11600 | rolling reward: 2.194429e+05 | random actions: 19 | loss: 1.931905e+10
+ == End of episode. Score: 2.619785e+07 ==
+step 11650 | rolling reward: 1.359036e+05 | random actions: 17 | loss: 1.750741e+10
+step 11700 | rolling reward: 1.929943e+05 | random actions: 29 | loss: 1.793994e+10
+step 11750 | rolling reward: 8.010294e+04 | random actions: 17 | loss: 1.923597e+10
+step 11800 | rolling reward: 1.952832e+05 | random actions: 18 | loss: 1.775526e+10
+ == End of episode. Score: 2.263553e+07 ==
+step 11850 | rolling reward: 1.084036e+05 | random actions: 22 | loss: 1.876594e+10
+step 11900 | rolling reward: 4.928387e+05 | random actions: 24 | loss: 1.816114e+10
+step 11950 | rolling reward: 4.198705e+05 | random actions: 19 | loss: 1.900140e+10
+step 12000 | rolling reward: 1.059008e+06 | random actions: 20 | loss: 2.109880e+10
+ == End of episode. Score: 2.001412e+07 ==
+step 12050 | rolling reward: 2.467817e+05 | random actions: 20 | loss: 3.591275e+10
+step 12100 | rolling reward: 3.783495e+05 | random actions: 25 | loss: 2.724622e+10
+step 12150 | rolling reward: 5.518179e+05 | random actions: 14 | loss: 2.536491e+10
+step 12200 | rolling reward: 6.441306e+05 | random actions: 20 | loss: 2.933942e+10
+ == End of episode. Score: 2.645263e+07 ==
+step 12250 | rolling reward: 1.146658e+05 | random actions: 20 | loss: 2.851254e+10
+step 12300 | rolling reward: 1.495377e+06 | random actions: 22 | loss: 3.331693e+10
+step 12350 | rolling reward: 2.010402e+06 | random actions: 18 | loss: 7.407732e+10
+step 12400 | rolling reward: 6.108695e+05 | random actions: 30 | loss: 6.233020e+10
+ == End of episode. Score: 1.470014e+07 ==
+step 12450 | rolling reward: 1.405042e+05 | random actions: 19 | loss: 5.649720e+10
+step 12500 | rolling reward: 2.188010e+05 | random actions: 22 | loss: 5.414703e+10
+step 12550 | rolling reward: 1.419019e+05 | random actions: 21 | loss: 4.409893e+10
+step 12600 | rolling reward: 3.938853e+05 | random actions: 21 | loss: 4.778309e+10
+ == End of episode. Score: 3.239997e+07 ==
+step 12650 | rolling reward: 1.112161e+05 | random actions: 21 | loss: 4.673785e+10
+step 12700 | rolling reward: 7.141840e+05 | random actions: 16 | loss: 5.196417e+10
+step 12750 | rolling reward: 4.411072e+05 | random actions: 19 | loss: 5.104062e+10
+step 12800 | rolling reward: 5.052658e+05 | random actions: 18 | loss: 5.097246e+10
+ == End of episode. Score: 2.095626e+07 ==
+step 12850 | rolling reward: 1.764830e+05 | random actions: 21 | loss: 5.233061e+10
+step 12900 | rolling reward: 2.077566e+05 | random actions: 18 | loss: 5.865461e+10
+step 12950 | rolling reward: 1.112564e+06 | random actions: 19 | loss: 5.348815e+10
+step 13000 | rolling reward: 1.655286e+06 | random actions: 19 | loss: 5.706838e+10
+ == End of episode. Score: 3.405632e+07 ==
+step 13050 | rolling reward: 9.141619e+04 | random actions: 21 | loss: 5.852322e+10
+step 13100 | rolling reward: 2.408308e+05 | random actions: 15 | loss: 6.127646e+10
+step 13150 | rolling reward: 1.191690e+06 | random actions: 17 | loss: 6.211661e+10
+step 13200 | rolling reward: 2.511225e+06 | random actions: 20 | loss: 8.526908e+10
+ == End of episode. Score: 2.342390e+07 ==
+step 13250 | rolling reward: 3.110395e+05 | random actions: 18 | loss: 9.020137e+10
+step 13300 | rolling reward: 3.597849e+05 | random actions: 21 | loss: 8.102149e+10
+step 13350 | rolling reward: 1.245865e+05 | random actions: 21 | loss: 9.337993e+10
+step 13400 | rolling reward: 2.813593e+05 | random actions: 13 | loss: 8.351673e+10
+ == End of episode. Score: 2.821795e+07 ==
+step 13450 | rolling reward: 2.098168e+05 | random actions: 13 | loss: 8.696570e+10
+step 13500 | rolling reward: 2.511374e+05 | random actions: 17 | loss: 8.116628e+10
+step 13550 | rolling reward: 2.944279e+05 | random actions: 19 | loss: 9.084038e+10
+step 13600 | rolling reward: 6.003845e+05 | random actions: 18 | loss: 8.323426e+10
+ == End of episode. Score: 2.096163e+07 ==
+step 13650 | rolling reward: 1.366684e+05 | random actions: 15 | loss: 8.316498e+10
+step 13700 | rolling reward: 1.102292e+05 | random actions: 14 | loss: 8.796493e+10
+step 13750 | rolling reward: 3.458205e+05 | random actions: 16 | loss: 8.912456e+10
+step 13800 | rolling reward: 6.016337e+05 | random actions: 24 | loss: 8.726459e+10
+ == End of episode. Score: 2.296289e+07 ==
+step 13850 | rolling reward: 1.304517e+05 | random actions: 17 | loss: 9.308687e+10
+step 13900 | rolling reward: 1.517512e+05 | random actions: 18 | loss: 8.289358e+10
+step 13950 | rolling reward: 3.508167e+05 | random actions: 22 | loss: 9.610432e+10
+step 14000 | rolling reward: 9.915677e+05 | random actions: 15 | loss: 9.792440e+10
+ == End of episode. Score: 2.131074e+07 ==
+step 14050 | rolling reward: 2.138225e+05 | random actions: 18 | loss: 8.966662e+10
+step 14100 | rolling reward: 5.521361e+05 | random actions: 18 | loss: 9.287441e+10
+step 14150 | rolling reward: 1.983209e+05 | random actions: 23 | loss: 8.834972e+10
+step 14200 | rolling reward: 1.835032e+05 | random actions: 20 | loss: 1.035612e+11
+ == End of episode. Score: 1.878903e+07 ==
+step 14250 | rolling reward: 1.359427e+05 | random actions: 18 | loss: 1.026727e+11
+step 14300 | rolling reward: 1.230776e+06 | random actions: 7 | loss: 9.817031e+10
+step 14350 | rolling reward: 8.159511e+05 | random actions: 15 | loss: 1.175711e+11
+step 14400 | rolling reward: 2.408956e+06 | random actions: 13 | loss: 1.255459e+11
+ == End of episode. Score: 3.051217e+07 ==
+step 14450 | rolling reward: 2.434528e+05 | random actions: 13 | loss: 1.386993e+11
+step 14500 | rolling reward: 5.480372e+05 | random actions: 13 | loss: 1.329871e+11
+step 14550 | rolling reward: 3.618207e+05 | random actions: 13 | loss: 1.360051e+11
+step 14600 | rolling reward: 7.530784e+05 | random actions: 18 | loss: 1.441239e+11
+ == End of episode. Score: 3.641488e+07 ==
+step 14650 | rolling reward: 2.129887e+05 | random actions: 21 | loss: 1.245464e+11
+step 14700 | rolling reward: 3.840721e+05 | random actions: 14 | loss: 1.312064e+11
+step 14750 | rolling reward: 1.436509e+06 | random actions: 10 | loss: 1.451966e+11
+step 14800 | rolling reward: 2.228199e+06 | random actions: 17 | loss: 1.871600e+11
+ == End of episode. Score: 2.878886e+07 ==
+step 14850 | rolling reward: 2.920159e+05 | random actions: 13 | loss: 1.777074e+11
+step 14900 | rolling reward: 1.137424e+06 | random actions: 14 | loss: 1.663102e+11
+step 14950 | rolling reward: 9.427453e+05 | random actions: 18 | loss: 1.715949e+11
+step 15000 | rolling reward: 1.548962e+06 | random actions: 19 | loss: 1.814362e+11
+ == End of episode. Score: 4.500904e+07 ==
+step 15050 | rolling reward: 2.364787e+05 | random actions: 17 | loss: 1.663412e+11
+step 15100 | rolling reward: 3.831478e+05 | random actions: 17 | loss: 1.892236e+11
+step 15150 | rolling reward: 2.719763e+05 | random actions: 13 | loss: 1.757705e+11
+step 15200 | rolling reward: 7.145091e+05 | random actions: 13 | loss: 1.773389e+11
+ == End of episode. Score: 4.689957e+07 ==
+step 15250 | rolling reward: 2.034146e+05 | random actions: 17 | loss: 1.705414e+11
+step 15300 | rolling reward: 3.272517e+05 | random actions: 13 | loss: 1.956964e+11
+step 15350 | rolling reward: 2.875281e+05 | random actions: 13 | loss: 1.779087e+11
+step 15400 | rolling reward: 1.626299e+06 | random actions: 15 | loss: 1.720717e+11
+ == End of episode. Score: 2.712127e+07 ==
+step 15450 | rolling reward: 9.098343e+05 | random actions: 12 | loss: 2.091781e+11
+step 15500 | rolling reward: 3.196775e+06 | random actions: 14 | loss: 2.410614e+11
+step 15550 | rolling reward: 1.762238e+06 | random actions: 10 | loss: 2.489869e+11
+step 15600 | rolling reward: 1.856531e+06 | random actions: 12 | loss: 2.749536e+11
+ == End of episode. Score: 3.179547e+07 ==
+step 15650 | rolling reward: 2.533283e+05 | random actions: 11 | loss: 2.717187e+11
+step 15700 | rolling reward: 5.765462e+05 | random actions: 8 | loss: 2.588352e+11
+step 15750 | rolling reward: 6.145029e+05 | random actions: 15 | loss: 2.771690e+11
+step 15800 | rolling reward: 7.625757e+05 | random actions: 12 | loss: 2.565594e+11
+ == End of episode. Score: 5.613325e+07 ==
+step 15850 | rolling reward: 1.544800e+05 | random actions: 14 | loss: 2.556326e+11
+step 15900 | rolling reward: 5.540070e+05 | random actions: 15 | loss: 2.680618e+11
+step 15950 | rolling reward: 9.063747e+05 | random actions: 9 | loss: 2.518177e+11
+step 16000 | rolling reward: 7.222151e+05 | random actions: 12 | loss: 2.639923e+11
+ == End of episode. Score: 2.728706e+07 ==
+step 16050 | rolling reward: 2.968974e+05 | random actions: 13 | loss: 2.669935e+11
+step 16100 | rolling reward: 3.335515e+06 | random actions: 12 | loss: 2.672378e+11
+step 16150 | rolling reward: 4.864955e+06 | random actions: 7 | loss: 3.473502e+11
+step 16200 | rolling reward: 5.689335e+06 | random actions: 12 | loss: 5.773956e+11
+ == End of episode. Score: 3.746137e+07 ==
+step 16250 | rolling reward: 1.107607e+05 | random actions: 17 | loss: 4.595065e+11
+step 16300 | rolling reward: 1.662782e+05 | random actions: 8 | loss: 5.193189e+11
+step 16350 | rolling reward: 1.018957e+06 | random actions: 12 | loss: 4.274478e+11
+step 16400 | rolling reward: 4.278685e+06 | random actions: 12 | loss: 5.107499e+11
+ == End of episode. Score: 2.598734e+07 ==
+step 16450 | rolling reward: 2.433426e+05 | random actions: 14 | loss: 5.394286e+11
+step 16500 | rolling reward: 1.918712e+06 | random actions: 10 | loss: 5.528034e+11
+step 16550 | rolling reward: 7.883545e+06 | random actions: 9 | loss: 5.959907e+11
+step 16600 | rolling reward: 6.953599e+06 | random actions: 10 | loss: 1.136213e+12
+ == End of episode. Score: 2.474649e+07 ==
+step 16650 | rolling reward: 6.714368e+05 | random actions: 11 | loss: 1.053441e+12
+step 16700 | rolling reward: 7.588432e+05 | random actions: 11 | loss: 1.011307e+12
+step 16750 | rolling reward: 2.108005e+06 | random actions: 7 | loss: 9.597455e+11
+step 16800 | rolling reward: 9.385653e+06 | random actions: 13 | loss: 1.246034e+12
+ == End of episode. Score: 1.759841e+07 ==
+step 16850 | rolling reward: 9.444942e+05 | random actions: 11 | loss: 2.161170e+12
+step 16900 | rolling reward: 1.085323e+06 | random actions: 15 | loss: 1.624618e+12
+step 16950 | rolling reward: 2.252245e+06 | random actions: 5 | loss: 1.436591e+12
+step 17000 | rolling reward: 7.850338e+06 | random actions: 10 | loss: 1.784503e+12
+ == End of episode. Score: 4.585125e+07 ==
+step 17050 | rolling reward: 3.086217e+05 | random actions: 16 | loss: 2.306268e+12
+step 17100 | rolling reward: 2.551632e+05 | random actions: 10 | loss: 2.062429e+12
+step 17150 | rolling reward: 2.165659e+06 | random actions: 15 | loss: 2.005423e+12
+step 17200 | rolling reward: 1.377304e+07 | random actions: 8 | loss: 1.944111e+12
+ == End of episode. Score: 2.609692e+07 ==
+step 17250 | rolling reward: 5.214869e+05 | random actions: 9 | loss: 3.034641e+12
+step 17300 | rolling reward: 2.228615e+06 | random actions: 6 | loss: 2.549916e+12
+step 17350 | rolling reward: 5.300844e+06 | random actions: 14 | loss: 2.856561e+12
+step 17400 | rolling reward: 1.721877e+07 | random actions: 7 | loss: 2.779548e+12
+ == End of episode. Score: 2.964430e+07 ==
+step 17450 | rolling reward: 1.133708e+06 | random actions: 8 | loss: 3.748398e+12
+step 17500 | rolling reward: 2.713638e+06 | random actions: 9 | loss: 4.007011e+12
+step 17550 | rolling reward: 5.544677e+06 | random actions: 10 | loss: 3.955300e+12
+step 17600 | rolling reward: 2.108413e+07 | random actions: 9 | loss: 3.962008e+12
+ == End of episode. Score: 5.613325e+07 ==
+step 17650 | rolling reward: 3.932048e+05 | random actions: 8 | loss: 9.006655e+12
+step 17700 | rolling reward: 9.676024e+05 | random actions: 6 | loss: 5.437846e+12
+step 17750 | rolling reward: 1.451957e+06 | random actions: 9 | loss: 7.239034e+12
+step 17800 | rolling reward: 1.619442e+06 | random actions: 8 | loss: 5.406333e+12
+ == End of episode. Score: 3.750459e+07 ==
+step 17850 | rolling reward: 3.997982e+05 | random actions: 12 | loss: 4.258083e+12
+step 17900 | rolling reward: 3.219582e+05 | random actions: 9 | loss: 5.220330e+12
+step 17950 | rolling reward: 1.191040e+06 | random actions: 2 | loss: 5.396940e+12
+step 18000 | rolling reward: 3.880812e+05 | random actions: 9 | loss: 5.859204e+12
+ == End of episode. Score: 3.538375e+07 ==
+step 18050 | rolling reward: 7.185009e+05 | random actions: 6 | loss: 4.890752e+12
+step 18100 | rolling reward: 2.616173e+06 | random actions: 10 | loss: 5.046543e+12
+step 18150 | rolling reward: 7.791645e+06 | random actions: 10 | loss: 5.903950e+12
+step 18200 | rolling reward: 2.635709e+07 | random actions: 9 | loss: 8.146356e+12
+ == End of episode. Score: 3.377667e+07 ==
+step 18250 | rolling reward: 1.014581e+06 | random actions: 5 | loss: 1.356224e+13
+step 18300 | rolling reward: 7.259677e+05 | random actions: 4 | loss: 1.019414e+13
+step 18350 | rolling reward: 6.061712e+05 | random actions: 7 | loss: 7.274409e+12
+step 18400 | rolling reward: 4.357585e+05 | random actions: 6 | loss: 6.110303e+12
+ == End of episode. Score: 5.032956e+07 ==
+step 18450 | rolling reward: 3.322883e+05 | random actions: 5 | loss: 8.182078e+12
+step 18500 | rolling reward: 1.657414e+06 | random actions: 3 | loss: 6.024401e+12
+step 18550 | rolling reward: 1.878591e+07 | random actions: 9 | loss: 6.497498e+12
+step 18600 | rolling reward: 6.771916e+07 | random actions: 5 | loss: 1.498366e+13
+ == End of episode. Score: 3.175535e+07 ==
+step 18650 | rolling reward: 3.944348e+06 | random actions: 3 | loss: 3.660219e+13
+step 18700 | rolling reward: 5.780008e+06 | random actions: 6 | loss: 2.206517e+13
+step 18750 | rolling reward: 4.962052e+07 | random actions: 4 | loss: 2.172431e+13
+step 18800 | rolling reward: 3.058640e+07 | random actions: 5 | loss: 3.186898e+13
+ == End of episode. Score: 3.045816e+07 ==
+step 18850 | rolling reward: 1.194433e+06 | random actions: 2 | loss: 3.083942e+13
+step 18900 | rolling reward: 7.488468e+06 | random actions: 4 | loss: 3.211240e+13
+step 18950 | rolling reward: 4.967268e+07 | random actions: 2 | loss: 3.934304e+13
+step 19000 | rolling reward: 2.785694e+07 | random actions: 4 | loss: 4.649920e+13
+ == End of episode. Score: 3.138778e+07 ==
+step 19050 | rolling reward: 1.143527e+06 | random actions: 2 | loss: 3.765854e+13
+step 19100 | rolling reward: 2.121082e+06 | random actions: 5 | loss: 3.908327e+13
+step 19150 | rolling reward: 1.315591e+07 | random actions: 6 | loss: 3.926683e+13
+step 19200 | rolling reward: 8.819754e+07 | random actions: 2 | loss: 3.722163e+13
+ == End of episode. Score: 2.923159e+07 ==
+step 19250 | rolling reward: 2.603311e+06 | random actions: 4 | loss: 6.480709e+13
+step 19300 | rolling reward: 1.705898e+06 | random actions: 5 | loss: 6.027999e+13
+step 19350 | rolling reward: 1.841371e+05 | random actions: 3 | loss: 5.333099e+13
+step 19400 | rolling reward: 7.790877e+05 | random actions: 4 | loss: 4.738285e+13
+ == End of episode. Score: 3.855283e+07 ==
+step 19450 | rolling reward: 4.313924e+05 | random actions: 3 | loss: 5.268857e+13
+step 19500 | rolling reward: 6.400603e+05 | random actions: 2 | loss: 7.520858e+13
+step 19550 | rolling reward: 2.679691e+06 | random actions: 3 | loss: 4.377418e+13
+step 19600 | rolling reward: 6.713301e+07 | random actions: 1 | loss: 4.886472e+13
+ == End of episode. Score: 4.098097e+07 ==
+step 19650 | rolling reward: 2.464358e+06 | random actions: 4 | loss: 5.408158e+13
+step 19700 | rolling reward: 4.218098e+06 | random actions: 1 | loss: 5.288824e+13
+step 19750 | rolling reward: 7.398296e+07 | random actions: 3 | loss: 6.470983e+13
+step 19800 | rolling reward: 1.287910e+08 | random actions: 1 | loss: 9.783318e+13
+ == End of episode. Score: 4.566628e+08 ==
+step 19850 | rolling reward: 3.763147e+06 | random actions: 1 | loss: 1.217307e+14
+step 19900 | rolling reward: 6.969837e+05 | random actions: 2 | loss: 1.036920e+14
+step 19950 | rolling reward: 6.887465e+05 | random actions: 0 | loss: 1.198971e+14
+step 20000 | rolling reward: 5.015297e+05 | random actions: 2 | loss: 9.588422e+13
+ == End of episode. Score: 3.069250e+08 ==
+step 20050 | rolling reward: 6.589441e+05 | random actions: 1 | loss: 9.681452e+13
+step 20100 | rolling reward: 3.858563e+06 | random actions: 2 | loss: 1.196404e+14
+step 20150 | rolling reward: 4.344053e+07 | random actions: 1 | loss: 1.146224e+14
+step 20200 | rolling reward: 1.128672e+08 | random actions: 2 | loss: 1.047905e+14
+ == End of episode. Score: 1.489759e+10 ==
+step 20250 | rolling reward: 2.319379e+06 | random actions: 2 | loss: 1.231276e+14
+step 20300 | rolling reward: 4.477331e+07 | random actions: 1 | loss: 1.215633e+14
+step 20350 | rolling reward: 8.722790e+07 | random actions: 2 | loss: 1.267347e+14
+step 20400 | rolling reward: 1.284734e+08 | random actions: 2 | loss: 1.636960e+14
+ == End of episode. Score: 5.286657e+07 ==
+step 20450 | rolling reward: 3.664251e+06 | random actions: 1 | loss: 1.919034e+14
+step 20500 | rolling reward: 8.812908e+04 | random actions: 1 | loss: 1.575687e+14
+step 20550 | rolling reward: 2.775207e+04 | random actions: 2 | loss: 1.716149e+14
+step 20600 | rolling reward: 7.897160e+05 | random actions: 0 | loss: 1.707982e+14
+ == End of episode. Score: 4.113628e+07 ==
+step 20650 | rolling reward: 8.779461e+04 | random actions: 1 | loss: 1.656849e+14
+step 20700 | rolling reward: 8.461715e+04 | random actions: 0 | loss: 1.469545e+14
+step 20750 | rolling reward: 1.683830e+04 | random actions: 0 | loss: 1.550658e+14
+step 20800 | rolling reward: 8.692155e+04 | random actions: 1 | loss: 1.692555e+14
+ == End of episode. Score: 1.535980e+08 ==
+step 20850 | rolling reward: 4.985203e+05 | random actions: 0 | loss: 1.773983e+14
+step 20900 | rolling reward: 7.655653e+04 | random actions: 1 | loss: 1.580402e+14
+step 20950 | rolling reward: 4.802812e+04 | random actions: 0 | loss: 1.488840e+14
+step 21000 | rolling reward: 4.288505e+04 | random actions: 0 | loss: 1.412110e+14
+ == End of episode. Score: 3.699145e+07 ==
+step 21050 | rolling reward: 9.480866e+05 | random actions: 0 | loss: 1.497804e+14
+step 21100 | rolling reward: 2.710558e+06 | random actions: 0 | loss: 1.502967e+14
+step 21150 | rolling reward: 8.488667e+07 | random actions: 0 | loss: 1.263789e+14
+step 21200 | rolling reward: 1.344029e+08 | random actions: 1 | loss: 1.718139e+14
+ == End of episode. Score: 1.877877e+10 ==
+step 21250 | rolling reward: 3.557616e+06 | random actions: 0 | loss: 2.052086e+14
+step 21300 | rolling reward: 7.644936e+06 | random actions: 0 | loss: 1.796018e+14
+step 21350 | rolling reward: 1.092696e+08 | random actions: 0 | loss: 1.976374e+14
+step 21400 | rolling reward: 1.047905e+08 | random actions: 2 | loss: 2.134210e+14
+ == End of episode. Score: 3.524291e+06 ==
+step 21450 | rolling reward: 3.820064e+06 | random actions: 0 | loss: 2.282651e+14
+step 21500 | rolling reward: 1.881879e+04 | random actions: 1 | loss: 2.104323e+14
+step 21550 | rolling reward: 1.803481e+04 | random actions: 1 | loss: 1.840919e+14
+step 21600 | rolling reward: 1.843306e+04 | random actions: 0 | loss: 1.895239e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 21650 | rolling reward: 1.992658e+04 | random actions: 0 | loss: 1.717289e+14
+step 21700 | rolling reward: 2.041626e+04 | random actions: 0 | loss: 1.858613e+14
+step 21750 | rolling reward: 2.029046e+04 | random actions: 0 | loss: 1.790043e+14
+step 21800 | rolling reward: 1.837755e+04 | random actions: 1 | loss: 1.993226e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 21850 | rolling reward: 1.723108e+04 | random actions: 0 | loss: 1.801161e+14
+step 21900 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.956442e+14
+step 21950 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.958832e+14
+step 22000 | rolling reward: 1.785480e+04 | random actions: 0 | loss: 1.599047e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 22050 | rolling reward: 1.719962e+04 | random actions: 0 | loss: 1.600848e+14
+step 22100 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.803881e+14
+step 22150 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.531894e+14
+step 22200 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.624699e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 22250 | rolling reward: 1.719980e+04 | random actions: 0 | loss: 1.843137e+14
+step 22300 | rolling reward: 1.860465e+04 | random actions: 2 | loss: 1.604707e+14
+step 22350 | rolling reward: 1.716908e+04 | random actions: 0 | loss: 1.671472e+14
+step 22400 | rolling reward: 1.715211e+04 | random actions: 0 | loss: 1.860903e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 22450 | rolling reward: 1.719980e+04 | random actions: 0 | loss: 1.454691e+14
+step 22500 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.468972e+14
+step 22550 | rolling reward: 1.733618e+04 | random actions: 1 | loss: 1.851827e+14
+step 22600 | rolling reward: 1.767046e+04 | random actions: 1 | loss: 1.755113e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 22650 | rolling reward: 1.769489e+04 | random actions: 1 | loss: 1.849530e+14
+step 22700 | rolling reward: 1.818459e+04 | random actions: 1 | loss: 2.072177e+14
+step 22750 | rolling reward: 1.716792e+04 | random actions: 0 | loss: 1.651508e+14
+step 22800 | rolling reward: 1.715211e+04 | random actions: 0 | loss: 1.792668e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 22850 | rolling reward: 1.719980e+04 | random actions: 0 | loss: 1.594897e+14
+step 22900 | rolling reward: 1.732334e+04 | random actions: 0 | loss: 1.629319e+14
+step 22950 | rolling reward: 1.741413e+04 | random actions: 0 | loss: 1.481285e+14
+step 23000 | rolling reward: 1.747616e+04 | random actions: 1 | loss: 1.577124e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 23050 | rolling reward: 1.719976e+04 | random actions: 0 | loss: 1.700943e+14
+step 23100 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.725901e+14
+step 23150 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.587904e+14
+step 23200 | rolling reward: 1.764045e+04 | random actions: 1 | loss: 1.586469e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 23250 | rolling reward: 1.719989e+04 | random actions: 2 | loss: 1.994576e+14
+step 23300 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.535300e+14
+step 23350 | rolling reward: 1.715212e+04 | random actions: 0 | loss: 1.474780e+14
+step 23400 | rolling reward: 1.785385e+04 | random actions: 1 | loss: 1.558813e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 23450 | rolling reward: 1.767683e+04 | random actions: 3 | loss: 1.401375e+14
+step 23500 | rolling reward: 1.781731e+04 | random actions: 1 | loss: 1.474195e+14
+step 23550 | rolling reward: 1.776792e+04 | random actions: 1 | loss: 1.628681e+14
+step 23600 | rolling reward: 1.824223e+04 | random actions: 1 | loss: 2.040127e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 23650 | rolling reward: 1.773986e+04 | random actions: 2 | loss: 1.518688e+14
+step 23700 | rolling reward: 1.729623e+04 | random actions: 0 | loss: 1.687745e+14
+step 23750 | rolling reward: 1.776691e+04 | random actions: 0 | loss: 1.599584e+14
+step 23800 | rolling reward: 1.748772e+04 | random actions: 0 | loss: 1.682579e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 23850 | rolling reward: 1.719981e+04 | random actions: 1 | loss: 1.369118e+14
+step 23900 | rolling reward: 1.765390e+04 | random actions: 1 | loss: 1.732776e+14
+step 23950 | rolling reward: 1.741832e+04 | random actions: 0 | loss: 1.682142e+14
+step 24000 | rolling reward: 1.835062e+04 | random actions: 0 | loss: 1.510472e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 24050 | rolling reward: 1.918576e+04 | random actions: 0 | loss: 1.693501e+14
+step 24100 | rolling reward: 2.026918e+04 | random actions: 1 | loss: 1.329932e+14
+step 24150 | rolling reward: 2.076403e+04 | random actions: 1 | loss: 1.686057e+14
+step 24200 | rolling reward: 2.054474e+04 | random actions: 0 | loss: 1.455909e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 24250 | rolling reward: 1.896020e+04 | random actions: 0 | loss: 1.641457e+14
+step 24300 | rolling reward: 1.913611e+04 | random actions: 2 | loss: 1.869910e+14
+step 24350 | rolling reward: 2.308961e+04 | random actions: 0 | loss: 1.341562e+14
+step 24400 | rolling reward: 2.001331e+04 | random actions: 0 | loss: 1.433970e+14
+ == End of episode. Score: 2.915681e+06 ==
+step 24450 | rolling reward: 1.488951e+04 | random actions: 0 | loss: 1.332919e+14
+step 24500 | rolling reward: 1.849773e+04 | random actions: 0 | loss: 1.776908e+14
+step 24550 | rolling reward: 1.854531e+04 | random actions: 0 | loss: 1.689941e+14
+step 24600 | rolling reward: 2.065256e+04 | random actions: 1 | loss: 1.416683e+14
+ == End of episode. Score: 6.127272e+06 ==
+step 24650 | rolling reward: 2.928716e+04 | random actions: 1 | loss: 1.565280e+14
+step 24700 | rolling reward: 4.081961e+04 | random actions: 0 | loss: 1.918101e+14
+step 24750 | rolling reward: 5.357121e+04 | random actions: 0 | loss: 1.629912e+14
+step 24800 | rolling reward: 7.552820e+04 | random actions: 0 | loss: 1.664699e+14
+ == End of episode. Score: 1.050934e+07 ==
+step 24850 | rolling reward: 1.028761e+05 | random actions: 0 | loss: 1.511134e+14
+step 24900 | rolling reward: 1.338164e+05 | random actions: 0 | loss: 1.716474e+14
+step 24950 | rolling reward: 1.078245e+05 | random actions: 1 | loss: 1.375814e+14
+step 25000 | rolling reward: 3.582530e+06 | random actions: 0 | loss: 1.356153e+14
+ == End of episode. Score: 1.560506e+10 ==
+step 25050 | rolling reward: 7.086470e+05 | random actions: 0 | loss: 1.718359e+14
+step 25100 | rolling reward: 2.393750e+06 | random actions: 0 | loss: 1.395794e+14
+step 25150 | rolling reward: 7.036635e+07 | random actions: 0 | loss: 1.463008e+14
+step 25200 | rolling reward: 2.129980e+08 | random actions: 0 | loss: 2.476696e+14
+ == End of episode. Score: 1.436584e+10 ==
+step 25250 | rolling reward: 7.127163e+06 | random actions: 0 | loss: 2.572426e+14
+step 25300 | rolling reward: 1.572702e+07 | random actions: 0 | loss: 2.440700e+14
+step 25350 | rolling reward: 8.318516e+07 | random actions: 1 | loss: 2.835341e+14
+step 25400 | rolling reward: 2.597916e+08 | random actions: 1 | loss: 4.561866e+14
+ == End of episode. Score: 2.894668e+10 ==
+step 25450 | rolling reward: 6.971671e+06 | random actions: 0 | loss: 5.597909e+14
+step 25500 | rolling reward: 1.904018e+04 | random actions: 1 | loss: 4.641230e+14
+step 25550 | rolling reward: 1.570299e+06 | random actions: 2 | loss: 4.642121e+14
+step 25600 | rolling reward: 8.263569e+07 | random actions: 0 | loss: 4.576489e+14
+ == End of episode. Score: 2.974666e+10 ==
+step 25650 | rolling reward: 3.457540e+06 | random actions: 0 | loss: 4.088048e+14
+step 25700 | rolling reward: 3.550673e+07 | random actions: 1 | loss: 4.690947e+14
+step 25750 | rolling reward: 2.021883e+08 | random actions: 1 | loss: 4.396632e+14
+step 25800 | rolling reward: 2.628166e+08 | random actions: 3 | loss: 5.295276e+14
+ == End of episode. Score: 3.282778e+10 ==
+step 25850 | rolling reward: 1.762675e+06 | random actions: 0 | loss: 5.735805e+14
+step 25900 | rolling reward: 2.082151e+07 | random actions: 0 | loss: 5.123984e+14
+step 25950 | rolling reward: 1.790368e+08 | random actions: 1 | loss: 5.152632e+14
+step 26000 | rolling reward: 3.408826e+08 | random actions: 0 | loss: 6.390690e+14
+ == End of episode. Score: 2.968248e+10 ==
+step 26050 | rolling reward: 7.195531e+06 | random actions: 1 | loss: 5.145715e+14
+step 26100 | rolling reward: 1.940505e+04 | random actions: 0 | loss: 4.587375e+14
+step 26150 | rolling reward: 1.793805e+04 | random actions: 0 | loss: 5.545675e+14
+step 26200 | rolling reward: 8.890925e+04 | random actions: 3 | loss: 4.584433e+14
+ == End of episode. Score: 3.415313e+10 ==
+step 26250 | rolling reward: 6.200019e+05 | random actions: 1 | loss: 4.647980e+14
+step 26300 | rolling reward: 2.119463e+07 | random actions: 0 | loss: 4.597424e+14
+step 26350 | rolling reward: 2.042372e+08 | random actions: 0 | loss: 4.406718e+14
+step 26400 | rolling reward: 3.455290e+08 | random actions: 0 | loss: 4.362877e+14
+ == End of episode. Score: 3.007153e+10 ==
+step 26450 | rolling reward: 7.843914e+06 | random actions: 0 | loss: 5.172987e+14
+step 26500 | rolling reward: 3.732081e+07 | random actions: 1 | loss: 4.882608e+14
+step 26550 | rolling reward: 1.289799e+08 | random actions: 0 | loss: 4.714306e+14
+step 26600 | rolling reward: 1.315760e+08 | random actions: 1 | loss: 4.248692e+14
+ == End of episode. Score: 3.398163e+06 ==
+step 26650 | rolling reward: 2.858688e+06 | random actions: 0 | loss: 3.991595e+14
+step 26700 | rolling reward: 2.761698e+04 | random actions: 0 | loss: 4.266814e+14
+step 26750 | rolling reward: 4.642604e+04 | random actions: 1 | loss: 4.159133e+14
+step 26800 | rolling reward: 9.630514e+05 | random actions: 1 | loss: 4.108543e+14
+ == End of episode. Score: 1.937089e+10 ==
+step 26850 | rolling reward: 6.939181e+05 | random actions: 0 | loss: 3.933147e+14
+step 26900 | rolling reward: 1.623733e+07 | random actions: 0 | loss: 4.217551e+14
+step 26950 | rolling reward: 9.703718e+07 | random actions: 0 | loss: 3.803454e+14
+step 27000 | rolling reward: 1.427300e+08 | random actions: 0 | loss: 4.024286e+14
+ == End of episode. Score: 1.501154e+10 ==
+step 27050 | rolling reward: 3.133260e+06 | random actions: 1 | loss: 3.781805e+14
+step 27100 | rolling reward: 5.059287e+06 | random actions: 0 | loss: 4.114185e+14
+step 27150 | rolling reward: 8.680965e+07 | random actions: 0 | loss: 4.098632e+14
+step 27200 | rolling reward: 3.113677e+08 | random actions: 1 | loss: 4.016240e+14
+ == End of episode. Score: 3.486689e+10 ==
+step 27250 | rolling reward: 7.633115e+06 | random actions: 0 | loss: 3.930916e+14
+step 27300 | rolling reward: 5.830747e+07 | random actions: 1 | loss: 4.314034e+14
+step 27350 | rolling reward: 2.888472e+08 | random actions: 0 | loss: 4.030686e+14
+step 27400 | rolling reward: 3.317238e+08 | random actions: 1 | loss: 5.222640e+14
+ == End of episode. Score: 1.673697e+10 ==
+step 27450 | rolling reward: 7.602849e+06 | random actions: 0 | loss: 4.352423e+14
+step 27500 | rolling reward: 2.530763e+06 | random actions: 0 | loss: 4.729225e+14
+step 27550 | rolling reward: 1.133099e+08 | random actions: 0 | loss: 4.450242e+14
+step 27600 | rolling reward: 3.354861e+08 | random actions: 0 | loss: 3.953501e+14
+ == End of episode. Score: 1.196048e+10 ==
+step 27650 | rolling reward: 7.910439e+06 | random actions: 0 | loss: 3.771594e+14
+step 27700 | rolling reward: 5.742221e+07 | random actions: 0 | loss: 4.081264e+14
+step 27750 | rolling reward: 9.189910e+07 | random actions: 3 | loss: 4.278274e+14
+step 27800 | rolling reward: 2.606751e+08 | random actions: 2 | loss: 4.533812e+14
+ == End of episode. Score: 2.819091e+10 ==
+step 27850 | rolling reward: 7.354581e+06 | random actions: 0 | loss: 5.037426e+14
+step 27900 | rolling reward: 4.676610e+07 | random actions: 0 | loss: 5.096659e+14
+step 27950 | rolling reward: 2.893360e+08 | random actions: 0 | loss: 5.058070e+14
+step 28000 | rolling reward: 1.682270e+08 | random actions: 1 | loss: 6.274129e+14
+ == End of episode. Score: 1.332313e+10 ==
+step 28050 | rolling reward: 4.430015e+06 | random actions: 0 | loss: 4.980937e+14
+step 28100 | rolling reward: 2.549208e+07 | random actions: 0 | loss: 5.130884e+14
+step 28150 | rolling reward: 1.336089e+08 | random actions: 1 | loss: 5.411522e+14
+step 28200 | rolling reward: 2.752673e+08 | random actions: 1 | loss: 6.359610e+14
+ == End of episode. Score: 3.209612e+10 ==
+step 28250 | rolling reward: 7.259602e+06 | random actions: 1 | loss: 6.616535e+14
+step 28300 | rolling reward: 5.431139e+07 | random actions: 0 | loss: 7.235460e+14
+step 28350 | rolling reward: 1.419048e+08 | random actions: 0 | loss: 6.383154e+14
+step 28400 | rolling reward: 1.464767e+08 | random actions: 0 | loss: 7.508331e+14
+ == End of episode. Score: 1.553721e+10 ==
+step 28450 | rolling reward: 2.607927e+06 | random actions: 2 | loss: 7.828779e+14
+step 28500 | rolling reward: 1.571724e+06 | random actions: 1 | loss: 6.468216e+14
+step 28550 | rolling reward: 4.513738e+07 | random actions: 0 | loss: 4.980177e+14
+step 28600 | rolling reward: 2.766836e+08 | random actions: 1 | loss: 6.992989e+14
+ == End of episode. Score: 1.618008e+10 ==
+step 28650 | rolling reward: 5.517767e+06 | random actions: 0 | loss: 5.629814e+14
+step 28700 | rolling reward: 8.577300e+05 | random actions: 0 | loss: 4.937856e+14
+step 28750 | rolling reward: 2.443644e+06 | random actions: 1 | loss: 5.516362e+14
+step 28800 | rolling reward: 2.882329e+07 | random actions: 0 | loss: 7.239369e+14
+ == End of episode. Score: 3.392307e+10 ==
+step 28850 | rolling reward: 2.590444e+06 | random actions: 2 | loss: 6.128312e+14
+step 28900 | rolling reward: 8.951468e+06 | random actions: 0 | loss: 5.309071e+14
+step 28950 | rolling reward: 1.238889e+08 | random actions: 0 | loss: 6.085390e+14
+step 29000 | rolling reward: 2.185249e+08 | random actions: 1 | loss: 6.302338e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 29050 | rolling reward: 7.240424e+06 | random actions: 0 | loss: 7.036267e+14
+step 29100 | rolling reward: 1.003064e+07 | random actions: 0 | loss: 7.184913e+14
+step 29150 | rolling reward: 1.003105e+08 | random actions: 1 | loss: 5.855104e+14
+step 29200 | rolling reward: 2.271607e+08 | random actions: 0 | loss: 4.899476e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 29250 | rolling reward: 7.128843e+06 | random actions: 0 | loss: 6.139199e+14
+step 29300 | rolling reward: 1.152375e+07 | random actions: 1 | loss: 6.979924e+14
+step 29350 | rolling reward: 1.856536e+08 | random actions: 0 | loss: 6.748071e+14
+step 29400 | rolling reward: 3.431864e+08 | random actions: 0 | loss: 6.435467e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 29450 | rolling reward: 7.768216e+06 | random actions: 1 | loss: 6.804421e+14
+step 29500 | rolling reward: 6.202091e+07 | random actions: 0 | loss: 6.277661e+14
+step 29550 | rolling reward: 2.951211e+08 | random actions: 0 | loss: 6.173502e+14
+step 29600 | rolling reward: 3.494087e+08 | random actions: 0 | loss: 5.918245e+14
+ == End of episode. Score: 1.556252e+10 ==
+step 29650 | rolling reward: 7.758825e+06 | random actions: 0 | loss: 8.245832e+14
+step 29700 | rolling reward: 6.418481e+07 | random actions: 0 | loss: 5.790307e+14
+step 29750 | rolling reward: 1.408061e+08 | random actions: 0 | loss: 4.973933e+14
+step 29800 | rolling reward: 3.013774e+08 | random actions: 0 | loss: 7.443976e+14
+ == End of episode. Score: 1.363108e+10 ==
+step 29850 | rolling reward: 7.102099e+06 | random actions: 0 | loss: 5.783320e+14
+step 29900 | rolling reward: 1.004095e+05 | random actions: 0 | loss: 6.458336e+14
+step 29950 | rolling reward: 2.295137e+07 | random actions: 1 | loss: 7.403575e+14
+step 30000 | rolling reward: 1.861237e+08 | random actions: 0 | loss: 5.360150e+14
+ == End of episode. Score: 3.432808e+06 ==
+step 30050 | rolling reward: 6.394032e+06 | random actions: 0 | loss: 7.008285e+14
+step 30100 | rolling reward: 5.959316e+07 | random actions: 0 | loss: 5.810083e+14
+step 30150 | rolling reward: 1.138311e+08 | random actions: 2 | loss: 6.518019e+14
+step 30200 | rolling reward: 1.620230e+08 | random actions: 1 | loss: 6.829721e+14
+ == End of episode. Score: 2.899292e+10 ==
+step 30250 | rolling reward: 6.980636e+06 | random actions: 0 | loss: 6.384780e+14
+step 30300 | rolling reward: 4.495101e+07 | random actions: 0 | loss: 6.405048e+14
+step 30350 | rolling reward: 2.620812e+08 | random actions: 1 | loss: 7.683025e+14
+step 30400 | rolling reward: 3.434202e+08 | random actions: 0 | loss: 7.418068e+14
+ == End of episode. Score: 3.985307e+09 ==
+step 30450 | rolling reward: 7.117482e+06 | random actions: 0 | loss: 7.050539e+14
+step 30500 | rolling reward: 6.438605e+05 | random actions: 0 | loss: 8.633690e+14
+step 30550 | rolling reward: 6.562287e+07 | random actions: 0 | loss: 6.012897e+14
+step 30600 | rolling reward: 2.741837e+08 | random actions: 1 | loss: 6.165923e+14
+ == End of episode. Score: 3.583241e+10 ==
+step 30650 | rolling reward: 6.971421e+06 | random actions: 1 | loss: 8.818211e+14
+step 30700 | rolling reward: 2.642642e+06 | random actions: 0 | loss: 6.591793e+14
+step 30750 | rolling reward: 1.070450e+08 | random actions: 0 | loss: 7.201620e+14
+step 30800 | rolling reward: 3.238640e+08 | random actions: 0 | loss: 7.771039e+14
+ == End of episode. Score: 3.421354e+10 ==
+step 30850 | rolling reward: 7.579570e+06 | random actions: 1 | loss: 7.291346e+14
+step 30900 | rolling reward: 2.197320e+07 | random actions: 1 | loss: 9.483527e+14
+step 30950 | rolling reward: 1.640959e+08 | random actions: 1 | loss: 9.710213e+14
+step 31000 | rolling reward: 1.809571e+08 | random actions: 2 | loss: 7.678551e+14
+ == End of episode. Score: 3.649417e+10 ==
+step 31050 | rolling reward: 6.246925e+06 | random actions: 0 | loss: 8.960849e+14
+step 31100 | rolling reward: 4.159935e+07 | random actions: 1 | loss: 9.149049e+14
+step 31150 | rolling reward: 7.132259e+07 | random actions: 1 | loss: 7.789595e+14
+step 31200 | rolling reward: 3.065137e+08 | random actions: 0 | loss: 8.987598e+14
+ == End of episode. Score: 3.116641e+10 ==
+step 31250 | rolling reward: 7.414813e+06 | random actions: 1 | loss: 9.049528e+14
+step 31300 | rolling reward: 3.882594e+07 | random actions: 0 | loss: 8.942294e+14
+step 31350 | rolling reward: 2.351020e+08 | random actions: 0 | loss: 9.799301e+14
+step 31400 | rolling reward: 3.410239e+08 | random actions: 1 | loss: 1.301650e+15
+ == End of episode. Score: 2.805282e+10 ==
+step 31450 | rolling reward: 7.323033e+06 | random actions: 0 | loss: 1.672671e+15
+step 31500 | rolling reward: 8.167358e+05 | random actions: 1 | loss: 1.183850e+15
+step 31550 | rolling reward: 2.406026e+07 | random actions: 0 | loss: 1.018133e+15
+step 31600 | rolling reward: 1.941136e+08 | random actions: 1 | loss: 9.506834e+14
+ == End of episode. Score: 3.518872e+10 ==
+step 31650 | rolling reward: 5.937223e+06 | random actions: 0 | loss: 8.937813e+14
+step 31700 | rolling reward: 6.515986e+07 | random actions: 0 | loss: 8.867879e+14
+step 31750 | rolling reward: 2.884310e+08 | random actions: 0 | loss: 8.789532e+14
+step 31800 | rolling reward: 3.474685e+08 | random actions: 0 | loss: 1.065533e+15
+ == End of episode. Score: 3.432808e+06 ==
+step 31850 | rolling reward: 8.129953e+06 | random actions: 0 | loss: 7.505600e+14
+step 31900 | rolling reward: 3.809527e+07 | random actions: 1 | loss: 8.797598e+14
+step 31950 | rolling reward: 2.482417e+08 | random actions: 0 | loss: 8.478355e+14
+step 32000 | rolling reward: 3.451872e+08 | random actions: 0 | loss: 9.096391e+14
+ == End of episode. Score: 3.242341e+10 ==
+step 32050 | rolling reward: 7.695961e+06 | random actions: 0 | loss: 7.841588e+14
+step 32100 | rolling reward: 5.822019e+07 | random actions: 1 | loss: 8.372103e+14
+step 32150 | rolling reward: 2.784208e+08 | random actions: 0 | loss: 8.283900e+14
+step 32200 | rolling reward: 3.464590e+08 | random actions: 0 | loss: 8.909306e+14
+ == End of episode. Score: 3.600423e+10 ==
+step 32250 | rolling reward: 8.042848e+06 | random actions: 1 | loss: 8.922871e+14
+step 32300 | rolling reward: 8.800901e+07 | random actions: 0 | loss: 7.551609e+14
+step 32350 | rolling reward: 3.287997e+08 | random actions: 0 | loss: 8.880606e+14
+step 32400 | rolling reward: 3.511438e+08 | random actions: 0 | loss: 8.872888e+14
+ == End of episode. Score: 3.442531e+10 ==
+step 32450 | rolling reward: 7.938305e+06 | random actions: 1 | loss: 9.087311e+14
+step 32500 | rolling reward: 2.811578e+06 | random actions: 0 | loss: 7.738092e+14
+step 32550 | rolling reward: 5.760713e+07 | random actions: 0 | loss: 1.045817e+15
+step 32600 | rolling reward: 2.976269e+08 | random actions: 0 | loss: 8.695258e+14
+ == End of episode. Score: 3.471012e+10 ==
+step 32650 | rolling reward: 7.472001e+06 | random actions: 1 | loss: 8.382684e+14
+step 32700 | rolling reward: 7.129472e+07 | random actions: 1 | loss: 8.595710e+14
+step 32750 | rolling reward: 3.169607e+08 | random actions: 0 | loss: 9.121995e+14
+step 32800 | rolling reward: 3.502234e+08 | random actions: 0 | loss: 9.206926e+14
+ == End of episode. Score: 3.410498e+10 ==
+step 32850 | rolling reward: 7.990645e+06 | random actions: 1 | loss: 8.955103e+14
+step 32900 | rolling reward: 6.310461e+07 | random actions: 0 | loss: 9.732735e+14
+step 32950 | rolling reward: 2.928695e+08 | random actions: 0 | loss: 1.002062e+15
+step 33000 | rolling reward: 3.085981e+08 | random actions: 1 | loss: 9.421325e+14
+ == End of episode. Score: 8.063444e+08 ==
+step 33050 | rolling reward: 3.150670e+06 | random actions: 1 | loss: 1.152438e+15
+step 33100 | rolling reward: 1.341285e+07 | random actions: 0 | loss: 1.080647e+15
+step 33150 | rolling reward: 1.583248e+08 | random actions: 1 | loss: 8.218445e+14
+step 33200 | rolling reward: 1.441290e+08 | random actions: 2 | loss: 1.236176e+15
+ == End of episode. Score: 1.073149e+09 ==
+step 33250 | rolling reward: 2.707559e+06 | random actions: 0 | loss: 1.159522e+15
+step 33300 | rolling reward: 1.781127e+07 | random actions: 0 | loss: 1.104395e+15
+step 33350 | rolling reward: 1.372098e+08 | random actions: 0 | loss: 1.000425e+15
+step 33400 | rolling reward: 3.166320e+08 | random actions: 0 | loss: 1.028928e+15
+ == End of episode. Score: 3.619887e+10 ==
+step 33450 | rolling reward: 7.702423e+06 | random actions: 1 | loss: 1.279899e+15
+step 33500 | rolling reward: 4.591640e+07 | random actions: 2 | loss: 1.134808e+15
+step 33550 | rolling reward: 2.557200e+08 | random actions: 0 | loss: 1.120599e+15
+step 33600 | rolling reward: 1.944789e+08 | random actions: 1 | loss: 1.005856e+15
+ == End of episode. Score: 3.538961e+10 ==
+step 33650 | rolling reward: 6.739103e+06 | random actions: 0 | loss: 1.105733e+15
+step 33700 | rolling reward: 6.606094e+07 | random actions: 2 | loss: 1.091560e+15
+step 33750 | rolling reward: 3.166571e+08 | random actions: 0 | loss: 1.003463e+15
+step 33800 | rolling reward: 3.187646e+08 | random actions: 2 | loss: 1.140871e+15
+ == End of episode. Score: 7.416693e+09 ==
+step 33850 | rolling reward: 2.802618e+06 | random actions: 1 | loss: 1.230620e+15
+step 33900 | rolling reward: 6.211253e+07 | random actions: 0 | loss: 9.860142e+14
+step 33950 | rolling reward: 2.741700e+08 | random actions: 0 | loss: 1.041626e+15
+step 34000 | rolling reward: 3.460108e+08 | random actions: 0 | loss: 1.068094e+15
+ == End of episode. Score: 3.582063e+10 ==
+step 34050 | rolling reward: 7.545555e+06 | random actions: 0 | loss: 1.245271e+15
+step 34100 | rolling reward: 5.025795e+06 | random actions: 2 | loss: 1.295254e+15
+step 34150 | rolling reward: 1.196068e+07 | random actions: 0 | loss: 9.732842e+14
+step 34200 | rolling reward: 1.332352e+08 | random actions: 0 | loss: 1.051766e+15
+ == End of episode. Score: 3.270044e+10 ==
+step 34250 | rolling reward: 6.714502e+06 | random actions: 0 | loss: 1.344009e+15
+step 34300 | rolling reward: 4.056503e+07 | random actions: 1 | loss: 9.982119e+14
+step 34350 | rolling reward: 2.160168e+08 | random actions: 0 | loss: 1.020993e+15
+step 34400 | rolling reward: 3.450665e+08 | random actions: 1 | loss: 1.290098e+15
+ == End of episode. Score: 3.774037e+10 ==
+step 34450 | rolling reward: 7.543852e+06 | random actions: 1 | loss: 1.007768e+15
+step 34500 | rolling reward: 3.680561e+06 | random actions: 1 | loss: 1.150322e+15
+step 34550 | rolling reward: 2.530829e+07 | random actions: 0 | loss: 1.120122e+15
+step 34600 | rolling reward: 1.066985e+08 | random actions: 2 | loss: 1.198301e+15
+ == End of episode. Score: 3.568521e+10 ==
+step 34650 | rolling reward: 6.151391e+06 | random actions: 1 | loss: 1.136513e+15
+step 34700 | rolling reward: 3.617587e+07 | random actions: 0 | loss: 1.136619e+15
+step 34750 | rolling reward: 2.652817e+08 | random actions: 1 | loss: 8.535082e+14
+step 34800 | rolling reward: 3.316312e+08 | random actions: 2 | loss: 1.042532e+15
+ == End of episode. Score: 3.317194e+10 ==
+step 34850 | rolling reward: 7.531170e+06 | random actions: 0 | loss: 1.035519e+15
+step 34900 | rolling reward: 4.314968e+07 | random actions: 0 | loss: 1.245808e+15
+step 34950 | rolling reward: 2.749171e+08 | random actions: 0 | loss: 9.439658e+14
+step 35000 | rolling reward: 3.481464e+08 | random actions: 0 | loss: 1.230866e+15
+ == End of episode. Score: 3.645015e+10 ==
+step 35050 | rolling reward: 7.966725e+06 | random actions: 0 | loss: 1.261645e+15
+step 35100 | rolling reward: 4.009513e+07 | random actions: 1 | loss: 1.218850e+15
+step 35150 | rolling reward: 1.804516e+08 | random actions: 0 | loss: 1.177347e+15
+step 35200 | rolling reward: 3.343311e+08 | random actions: 1 | loss: 8.110039e+14
+ == End of episode. Score: 3.473870e+09 ==
+step 35250 | rolling reward: 7.172802e+06 | random actions: 0 | loss: 9.161648e+14
+step 35300 | rolling reward: 1.981555e+06 | random actions: 1 | loss: 1.180387e+15
+step 35350 | rolling reward: 8.801167e+07 | random actions: 1 | loss: 8.600335e+14
+step 35400 | rolling reward: 3.042244e+08 | random actions: 0 | loss: 1.142660e+15
+ == End of episode. Score: 3.302511e+10 ==
+step 35450 | rolling reward: 7.515162e+06 | random actions: 0 | loss: 8.838876e+14
+step 35500 | rolling reward: 6.169137e+07 | random actions: 0 | loss: 1.000829e+15
+step 35550 | rolling reward: 2.781414e+08 | random actions: 0 | loss: 1.057603e+15
+step 35600 | rolling reward: 3.457957e+08 | random actions: 0 | loss: 9.351986e+14
+ == End of episode. Score: 3.608296e+10 ==
+step 35650 | rolling reward: 7.666032e+06 | random actions: 0 | loss: 1.539913e+15
+step 35700 | rolling reward: 3.343707e+07 | random actions: 0 | loss: 1.081630e+15
+step 35750 | rolling reward: 2.503381e+08 | random actions: 0 | loss: 8.410881e+14
+step 35800 | rolling reward: 3.466130e+08 | random actions: 0 | loss: 9.646952e+14
+ == End of episode. Score: 3.434738e+10 ==
+step 35850 | rolling reward: 7.606258e+06 | random actions: 3 | loss: 9.219110e+14
+step 35900 | rolling reward: 6.401345e+07 | random actions: 0 | loss: 1.027859e+15
+step 35950 | rolling reward: 2.924226e+08 | random actions: 0 | loss: 1.031729e+15
+step 36000 | rolling reward: 3.483434e+08 | random actions: 0 | loss: 9.515458e+14
+ == End of episode. Score: 3.260534e+10 ==
+step 36050 | rolling reward: 7.781593e+06 | random actions: 2 | loss: 1.050910e+15
+step 36100 | rolling reward: 2.676366e+07 | random actions: 0 | loss: 9.454984e+14
+step 36150 | rolling reward: 2.205614e+08 | random actions: 2 | loss: 1.169895e+15
+step 36200 | rolling reward: 1.952643e+08 | random actions: 0 | loss: 9.239487e+14
+ == End of episode. Score: 3.637328e+10 ==
+step 36250 | rolling reward: 7.184620e+06 | random actions: 0 | loss: 1.159700e+15
+step 36300 | rolling reward: 2.984194e+06 | random actions: 0 | loss: 1.122958e+15
+step 36350 | rolling reward: 1.278288e+08 | random actions: 1 | loss: 8.647907e+14
+step 36400 | rolling reward: 2.690182e+08 | random actions: 1 | loss: 9.706327e+14
+ == End of episode. Score: 3.455809e+10 ==
+step 36450 | rolling reward: 3.364540e+06 | random actions: 0 | loss: 1.023975e+15
+step 36500 | rolling reward: 3.565857e+07 | random actions: 0 | loss: 1.018957e+15
+step 36550 | rolling reward: 2.396079e+08 | random actions: 0 | loss: 9.265090e+14
+step 36600 | rolling reward: 3.458162e+08 | random actions: 0 | loss: 1.062748e+15
+ == End of episode. Score: 2.259050e+10 ==
+step 36650 | rolling reward: 7.554468e+06 | random actions: 0 | loss: 1.271922e+15
+step 36700 | rolling reward: 2.071505e+07 | random actions: 0 | loss: 1.034191e+15
+step 36750 | rolling reward: 2.094310e+08 | random actions: 0 | loss: 1.150252e+15
+step 36800 | rolling reward: 3.383712e+08 | random actions: 0 | loss: 8.965797e+14
+ == End of episode. Score: 3.725553e+10 ==
+step 36850 | rolling reward: 7.726681e+06 | random actions: 0 | loss: 1.660279e+15
+step 36900 | rolling reward: 5.212820e+07 | random actions: 0 | loss: 1.001152e+15
+step 36950 | rolling reward: 2.967194e+08 | random actions: 0 | loss: 1.548187e+15
+step 37000 | rolling reward: 3.490101e+08 | random actions: 0 | loss: 8.795152e+14
+ == End of episode. Score: 2.606198e+07 ==
+step 37050 | rolling reward: 7.521588e+06 | random actions: 1 | loss: 1.072889e+15
+step 37100 | rolling reward: 1.197952e+07 | random actions: 2 | loss: 1.309609e+15
+step 37150 | rolling reward: 1.167562e+08 | random actions: 1 | loss: 9.608345e+14
+step 37200 | rolling reward: 3.096386e+08 | random actions: 1 | loss: 8.604409e+14
+ == End of episode. Score: 3.462940e+10 ==
+step 37250 | rolling reward: 7.786555e+06 | random actions: 0 | loss: 1.067085e+15
+step 37300 | rolling reward: 5.993491e+07 | random actions: 2 | loss: 9.658065e+14
+step 37350 | rolling reward: 1.330524e+08 | random actions: 1 | loss: 1.370238e+15
+step 37400 | rolling reward: 2.685957e+08 | random actions: 0 | loss: 9.307983e+14
+ == End of episode. Score: 1.696596e+10 ==
+step 37450 | rolling reward: 7.128795e+06 | random actions: 0 | loss: 1.018691e+15
+step 37500 | rolling reward: 1.471213e+07 | random actions: 1 | loss: 1.157381e+15
+step 37550 | rolling reward: 1.588435e+08 | random actions: 0 | loss: 1.271099e+15
+step 37600 | rolling reward: 3.287205e+08 | random actions: 0 | loss: 1.188695e+15
+ == End of episode. Score: 3.432808e+06 ==
+step 37650 | rolling reward: 7.618732e+06 | random actions: 1 | loss: 1.211915e+15
+step 37700 | rolling reward: 2.877602e+07 | random actions: 0 | loss: 1.111584e+15
+step 37750 | rolling reward: 2.401488e+08 | random actions: 0 | loss: 1.032769e+15
+step 37800 | rolling reward: 3.443216e+08 | random actions: 0 | loss: 1.007325e+15 <- DQN best
+ == End of episode. Score: 3.788708e+10 ==
+step 37850 | rolling reward: 7.709990e+06 | random actions: 0 | loss: 1.282575e+15
+step 37900 | rolling reward: 6.423759e+07 | random actions: 0 | loss: 1.179190e+15
+step 37950 | rolling reward: 1.721523e+08 | random actions: 1 | loss: 9.127460e+14
+step 38000 | rolling reward: 2.756760e+08 | random actions: 1 | loss: 9.584695e+14
+ == End of episode. Score: 3.206788e+10 ==
+step 38050 | rolling reward: 7.662852e+06 | random actions: 1 | loss: 1.064240e+15
+step 38100 | rolling reward: 8.525883e+06 | random actions: 1 | loss: 1.465613e+15
+step 38150 | rolling reward: 5.231372e+07 | random actions: 0 | loss: 1.085901e+15
+step 38200 | rolling reward: 2.945600e+08 | random actions: 0 | loss: 9.421868e+14
+ == End of episode. Score: 1.318256e+10 ==
+step 38250 | rolling reward: 7.598665e+06 | random actions: 0 | loss: 1.191626e+15
+step 38300 | rolling reward: 4.616148e+07 | random actions: 1 | loss: 1.443978e+15
+step 38350 | rolling reward: 2.675543e+08 | random actions: 0 | loss: 9.632659e+14
+step 38400 | rolling reward: 3.456286e+08 | random actions: 0 | loss: 8.878330e+14
+ == End of episode. Score: 3.671547e+10 ==
+step 38450 | rolling reward: 7.803058e+06 | random actions: 1 | loss: 1.230883e+15
+step 38500 | rolling reward: 6.208387e+07 | random actions: 0 | loss: 9.371594e+14
+step 38550 | rolling reward: 1.872697e+08 | random actions: 1 | loss: 8.913669e+14
+step 38600 | rolling reward: 3.163667e+08 | random actions: 0 | loss: 1.239117e+15
+ == End of episode. Score: 3.329516e+10 ==
+step 38650 | rolling reward: 7.460053e+06 | random actions: 4 | loss: 1.040320e+15
+step 38700 | rolling reward: 6.201206e+07 | random actions: 0 | loss: 9.997446e+14
+step 38750 | rolling reward: 2.794452e+08 | random actions: 0 | loss: 1.172109e+15
+step 38800 | rolling reward: 3.287243e+08 | random actions: 2 | loss: 1.249917e+15
+ == End of episode. Score: 3.778225e+10 ==
+step 38850 | rolling reward: 7.170715e+06 | random actions: 0 | loss: 1.280044e+15
+step 38900 | rolling reward: 3.413972e+07 | random actions: 1 | loss: 9.685142e+14
+step 38950 | rolling reward: 2.602753e+08 | random actions: 0 | loss: 7.711398e+14
+step 39000 | rolling reward: 3.462372e+08 | random actions: 0 | loss: 1.504104e+15 <- DQN Final
+ == End of episode. Score: 3.310535e+10 ==
+step 39050 | rolling reward: 7.247612e+06 | random actions: 0 | loss: 1.270257e+15
+step 39100 | rolling reward: 9.165985e+06 | random actions: 0 | loss: 1.094859e+15
+step 39150 | rolling reward: 1.593845e+08 | random actions: 0 | loss: 8.851297e+14
+step 39200 | rolling reward: 3.322187e+08 | random actions: 0 | loss: 1.085994e+15
+ == End of episode. Score: 1.069304e+10 ==
+step 39250 | rolling reward: 7.416600e+06 | random actions: 0 | loss: 9.394983e+14
+step 39300 | rolling reward: 3.694788e+07 | random actions: 1 | loss: 8.879762e+14
+step 39350 | rolling reward: 2.461040e+08 | random actions: 0 | loss: 1.267329e+15
+step 39400 | rolling reward: 3.424146e+08 | random actions: 0 | loss: 8.674154e+14
+ == End of episode. Score: 1.549315e+10 ==
+step 39450 | rolling reward: 7.795506e+06 | random actions: 0 | loss: 1.051939e+15
+step 39500 | rolling reward: 2.366732e+06 | random actions: 2 | loss: 1.389146e+15
+step 39550 | rolling reward: 5.372573e+07 | random actions: 0 | loss: 8.542882e+14
+step 39600 | rolling reward: 3.026598e+08 | random actions: 1 | loss: 7.861362e+14
+ == End of episode. Score: 7.191865e+06 ==
+step 39650 | rolling reward: 7.588170e+06 | random actions: 0 | loss: 9.818869e+14
+step 39700 | rolling reward: 5.147743e+07 | random actions: 0 | loss: 7.659606e+14
+step 39750 | rolling reward: 2.395279e+08 | random actions: 1 | loss: 8.778827e+14
+step 39800 | rolling reward: 2.164807e+08 | random actions: 1 | loss: 1.140893e+15
+ == End of episode. Score: 3.763786e+10 ==
+step 39850 | rolling reward: 6.437677e+06 | random actions: 0 | loss: 9.464105e+14
+step 39900 | rolling reward: 7.360164e+05 | random actions: 0 | loss: 1.449380e+15
+step 39950 | rolling reward: 4.041406e+07 | random actions: 1 | loss: 8.127049e+14
+step 40000 | rolling reward: 2.156171e+08 | random actions: 0 | loss: 1.113122e+15
+Total reward 1878274379362.7083
